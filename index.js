@@ -65,6 +65,8 @@ import AssignmentRoutes from "./Kanbas/Assignments/routes.js";
 // Hello(app);
 // app.listen(process.env.PORT || 4000)
 
+const app = express();
+
 app.use(
     cors({
         credentials: true,
