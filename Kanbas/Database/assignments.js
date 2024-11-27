@@ -1,632 +1,632 @@
 export default [
-  {
-    "_id": "A101",
-    "course": "RS101",
-    "title": "Propulsion Assignment",
-    "description": "This is a detailed description for Propulsion Assignment, focusing on key learning objectives for RS101.",
-    "points": 100,
-    "available_from": "2024-02-08",
-    "available_until": "2024-04-07",
-    "due_date": "2024-03-28"
-  },
-  {
-    "_id": "A102",
-    "course": "RS101",
-    "title": "Combustion Analysis",
-    "description": "This is a detailed description for Combustion Analysis, focusing on key learning objectives for RS101.",
-    "points": 100,
-    "available_from": "2024-02-07",
-    "available_until": "2024-03-13",
-    "due_date": "2024-03-04"
-  },
-  {
-    "_id": "A103",
-    "course": "RS101",
-    "title": "Nozzle Design Project",
-    "description": "This is a detailed description for Nozzle Design Project, focusing on key learning objectives for RS101.",
-    "points": 100,
-    "available_from": "2024-02-08",
-    "available_until": "2024-04-02",
-    "due_date": "2024-03-23"
-  },
-  {
-    "_id": "A201",
-    "course": "RS102",
-    "title": "Aerodynamics Quiz",
-    "description": "This is a detailed description for Aerodynamics Quiz, focusing on key learning objectives for RS102.",
-    "points": 100,
-    "available_from": "2024-01-19",
-    "available_until": "2024-03-18",
-    "due_date": "2024-03-13"
-  },
-  {
-    "_id": "A202",
-    "course": "RS102",
-    "title": "Flow Analysis",
-    "description": "This is a detailed description for Flow Analysis, focusing on key learning objectives for RS102.",
-    "points": 100,
-    "available_from": "2024-01-12",
-    "available_until": "2024-02-27",
-    "due_date": "2024-02-19"
-  },
-  {
-    "_id": "A203",
-    "course": "RS102",
-    "title": "Heating Analysis",
-    "description": "This is a detailed description for Heating Analysis, focusing on key learning objectives for RS102.",
-    "points": 100,
-    "available_from": "2024-02-05",
-    "available_until": "2024-03-09",
-    "due_date": "2024-02-26"
-  },
-  {
-    "_id": "A301",
-    "course": "RS103",
-    "title": "Structural Design Task",
-    "description": "This is a detailed description for Structural Design Task, focusing on key learning objectives for RS103.",
-    "points": 100,
-    "available_from": "2024-02-09",
-    "available_until": "2024-04-06",
-    "due_date": "2024-03-22"
-  },
-  {
-    "_id": "A302",
-    "course": "RS103",
-    "title": "Orbital Calculations",
-    "description": "This is a detailed description for Orbital Calculations, focusing on key learning objectives for RS103.",
-    "points": 100,
-    "available_from": "2024-01-14",
-    "available_until": "2024-02-16",
-    "due_date": "2024-02-01"
-  },
-  {
-    "_id": "A303",
-    "course": "RS103",
-    "title": "Systems Engineering Exam",
-    "description": "This is a detailed description for Systems Engineering Exam, focusing on key learning objectives for RS103.",
-    "points": 100,
-    "available_from": "2024-01-16",
-    "available_until": "2024-03-02",
-    "due_date": "2024-02-21"
-  },
-  {
-    "_id": "A401",
-    "course": "RS104",
-    "title": "Organic Compound Analysis",
-    "description": "This is a detailed description for Organic Compound Analysis, focusing on key learning objectives for RS104.",
-    "points": 100,
-    "available_from": "2024-01-28",
-    "available_until": "2024-03-12",
-    "due_date": "2024-03-04"
-  },
-  {
-    "_id": "A402",
-    "course": "RS104",
-    "title": "Stereochemistry Assignment",
-    "description": "This is a detailed description for Stereochemistry Assignment, focusing on key learning objectives for RS104.",
-    "points": 100,
-    "available_from": "2024-02-03",
-    "available_until": "2024-03-22",
-    "due_date": "2024-03-10"
-  },
-  {
-    "_id": "A403",
-    "course": "RS104",
-    "title": "Functional Group Reactions",
-    "description": "This is a detailed description for Functional Group Reactions, focusing on key learning objectives for RS104.",
-    "points": 100,
-    "available_from": "2024-02-03",
-    "available_until": "2024-03-28",
-    "due_date": "2024-03-19"
-  },
-  {
-    "_id": "A501",
-    "course": "RS105",
-    "title": "Coordination Chemistry Quiz",
-    "description": "This is a detailed description for Coordination Chemistry Quiz, focusing on key learning objectives for RS105.",
-    "points": 100,
-    "available_from": "2024-01-27",
-    "available_until": "2024-03-26",
-    "due_date": "2024-03-13"
-  },
-  {
-    "_id": "A502",
-    "course": "RS105",
-    "title": "Inorganic Synthesis Project",
-    "description": "This is a detailed description for Inorganic Synthesis Project, focusing on key learning objectives for RS105.",
-    "points": 100,
-    "available_from": "2024-01-27",
-    "available_until": "2024-03-04",
-    "due_date": "2024-02-22"
-  },
-  {
-    "_id": "A503",
-    "course": "RS105",
-    "title": "Crystal Field Theory Problem Set",
-    "description": "This is a detailed description for Crystal Field Theory Problem Set, focusing on key learning objectives for RS105.",
-    "points": 100,
-    "available_from": "2024-02-01",
-    "available_until": "2024-03-04",
-    "due_date": "2024-02-22"
-  },
-  {
-    "_id": "A601",
-    "course": "RS106",
-    "title": "Thermodynamics Lab Report",
-    "description": "This is a detailed description for Thermodynamics Lab Report, focusing on key learning objectives for RS106.",
-    "points": 100,
-    "available_from": "2024-01-14",
-    "available_until": "2024-02-29",
-    "due_date": "2024-02-16"
-  },
-  {
-    "_id": "A602",
-    "course": "RS106",
-    "title": "Quantum Mechanics Assignment",
-    "description": "This is a detailed description for Quantum Mechanics Assignment, focusing on key learning objectives for RS106.",
-    "points": 100,
-    "available_from": "2024-02-02",
-    "available_until": "2024-03-14",
-    "due_date": "2024-03-07"
-  },
-  {
-    "_id": "A603",
-    "course": "RS106",
-    "title": "Reaction Kinetics Exam",
-    "description": "This is a detailed description for Reaction Kinetics Exam, focusing on key learning objectives for RS106.",
-    "points": 100,
-    "available_from": "2024-01-29",
-    "available_until": "2024-03-28",
-    "due_date": "2024-03-14"
-  },
-  {
-    "_id": "A701",
-    "course": "RS107",
-    "title": "Elvish Language Exercise",
-    "description": "This is a detailed description for Elvish Language Exercise, focusing on key learning objectives for RS107.",
-    "points": 100,
-    "available_from": "2024-01-31",
-    "available_until": "2024-03-01",
-    "due_date": "2024-02-15"
-  },
-  {
-    "_id": "A702",
-    "course": "RS107",
-    "title": "Dwarvish Script Analysis",
-    "description": "This is a detailed description for Dwarvish Script Analysis, focusing on key learning objectives for RS107.",
-    "points": 100,
-    "available_from": "2024-02-05",
-    "available_until": "2024-03-13",
-    "due_date": "2024-02-27"
-  },
-  {
-    "_id": "A703",
-    "course": "RS107",
-    "title": "Translation Task: Black Speech",
-    "description": "This is a detailed description for Translation Task: Black Speech, focusing on key learning objectives for RS107.",
-    "points": 100,
-    "available_from": "2024-01-26",
-    "available_until": "2024-03-22",
-    "due_date": "2024-03-09"
-  },
-  {
-    "_id": "A801",
-    "course": "RS108",
-    "title": "Council of Elrond Case Study",
-    "description": "This is a detailed description for Council of Elrond Case Study, focusing on key learning objectives for RS108.",
-    "points": 100,
-    "available_from": "2024-02-05",
-    "available_until": "2024-03-17",
-    "due_date": "2024-03-06"
-  },
-  {
-    "_id": "A802",
-    "course": "RS108",
-    "title": "Multi-Species Diplomacy Essay",
-    "description": "This is a detailed description for Multi-Species Diplomacy Essay, focusing on key learning objectives for RS108.",
-    "points": 100,
-    "available_from": "2024-01-29",
-    "available_until": "2024-03-02",
-    "due_date": "2024-02-17"
-  },
-  {
-    "_id": "A803",
-    "course": "RS108",
-    "title": "Leadership in Middle-earth Quiz",
-    "description": "This is a detailed description for Leadership in Middle-earth Quiz, focusing on key learning objectives for RS108.",
-    "points": 100,
-    "available_from": "2024-02-05",
-    "available_until": "2024-03-22",
-    "due_date": "2024-03-17"
-  },
-  {
-    "_id": "A901",
-    "course": "RS109",
-    "title": "Rings of Power Analysis",
-    "description": "This is a detailed description for Rings of Power Analysis, focusing on key learning objectives for RS109.",
-    "points": 100,
-    "available_from": "2024-01-19",
-    "available_until": "2024-03-18",
-    "due_date": "2024-03-13"
-  },
-  {
-    "_id": "A902",
-    "course": "RS109",
-    "title": "Philosophy of Magic Essay",
-    "description": "This is a detailed description for Philosophy of Magic Essay, focusing on key learning objectives for RS109.",
-    "points": 100,
-    "available_from": "2024-01-17",
-    "available_until": "2024-02-24",
-    "due_date": "2024-02-13"
-  },
-  {
-    "_id": "A903",
-    "course": "RS109",
-    "title": "History of Middle-earth Magic Exam",
-    "description": "This is a detailed description for History of Middle-earth Magic Exam, focusing on key learning objectives for RS109.",
-    "points": 100,
-    "available_from": "2024-01-13",
-    "available_until": "2024-02-16",
-    "due_date": "2024-02-07"
-  },
-  {
-    "_id": "A1001",
-    "course": "RS110",
-    "title": "Democratic Education Debate",
-    "description": "This is a detailed description for Democratic Education Debate, focusing on key learning objectives for RS110.",
-    "points": 100,
-    "available_from": "2024-01-11",
-    "available_until": "2024-03-02",
-    "due_date": "2024-02-16"
-  },
-  {
-    "_id": "A1002",
-    "course": "RS110",
-    "title": "Civic Responsibility Paper",
-    "description": "This is a detailed description for Civic Responsibility Paper, focusing on key learning objectives for RS110.",
-    "points": 100,
-    "available_from": "2024-02-09",
-    "available_until": "2024-03-21",
-    "due_date": "2024-03-13"
-  },
-  {
-    "_id": "A1003",
-    "course": "RS110",
-    "title": "Participatory Learning Project",
-    "description": "This is a detailed description for Participatory Learning Project, focusing on key learning objectives for RS110.",
-    "points": 100,
-    "available_from": "2024-01-14",
-    "available_until": "2024-03-04",
-    "due_date": "2024-02-19"
-  },
-  {
-    "_id": "A1101",
-    "course": "RS111",
-    "title": "Enlightenment Thought Reflection",
-    "description": "This is a detailed description for Enlightenment Thought Reflection, focusing on key learning objectives for RS111.",
-    "points": 100,
-    "available_from": "2024-01-28",
-    "available_until": "2024-03-06",
-    "due_date": "2024-02-21"
-  },
-  {
-    "_id": "A1102",
-    "course": "RS111",
-    "title": "Independence Movement Essay",
-    "description": "This is a detailed description for Independence Movement Essay, focusing on key learning objectives for RS111.",
-    "points": 100,
-    "available_from": "2024-01-31",
-    "available_until": "2024-03-12",
-    "due_date": "2024-03-02"
-  },
-  {
-    "_id": "A1103",
-    "course": "RS111",
-    "title": "Freedom Concepts Analysis",
-    "description": "This is a detailed description for Freedom Concepts Analysis, focusing on key learning objectives for RS111.",
-    "points": 100,
-    "available_from": "2024-01-12",
-    "available_until": "2024-03-04",
-    "due_date": "2024-02-21"
-  },
-  {
-    "_id": "A1201",
-    "course": "RS112",
-    "title": "Simon Rodr\u00edguez Research Paper",
-    "description": "This is a detailed description for Simon Rodr\u00edguez Research Paper, focusing on key learning objectives for RS112.",
-    "points": 100,
-    "available_from": "2024-01-18",
-    "available_until": "2024-03-16",
-    "due_date": "2024-03-03"
-  },
-  {
-    "_id": "A1202",
-    "course": "RS112",
-    "title": "Innovations in 19th Century Education",
-    "description": "This is a detailed description for Innovations in 19th Century Education, focusing on key learning objectives for RS112.",
-    "points": 100,
-    "available_from": "2024-01-13",
-    "available_until": "2024-03-01",
-    "due_date": "2024-02-18"
-  },
-  {
-    "_id": "A1203",
-    "course": "RS112",
-    "title": "Practical Education Debate",
-    "description": "This is a detailed description for Practical Education Debate, focusing on key learning objectives for RS112.",
-    "points": 100,
-    "available_from": "2024-02-08",
-    "available_until": "2024-03-16",
-    "due_date": "2024-03-09"
-  },
-  {
-    "_id": "A1301",
-    "course": "RS113",
-    "title": "Moral Decision-Making Case Study",
-    "description": "This is a detailed description for Moral Decision-Making Case Study, focusing on key learning objectives for RS113.",
-    "points": 100,
-    "available_from": "2024-02-02",
-    "available_until": "2024-03-21",
-    "due_date": "2024-03-16"
-  },
-  {
-    "_id": "A1302",
-    "course": "RS113",
-    "title": "Virtues and Vices Analysis",
-    "description": "This is a detailed description for Virtues and Vices Analysis, focusing on key learning objectives for RS113.",
-    "points": 100,
-    "available_from": "2024-02-05",
-    "available_until": "2024-03-12",
-    "due_date": "2024-03-06"
-  },
-  {
-    "_id": "A1303",
-    "course": "RS113",
-    "title": "Christian Ethics in Modern Context",
-    "description": "This is a detailed description for Christian Ethics in Modern Context, focusing on key learning objectives for RS113.",
-    "points": 100,
-    "available_from": "2024-01-11",
-    "available_until": "2024-02-18",
-    "due_date": "2024-02-10"
-  },
-  {
-    "_id": "A1401",
-    "course": "RS114",
-    "title": "Apostolic Age Research Paper",
-    "description": "This is a detailed description for Apostolic Age Research Paper, focusing on key learning objectives for RS114.",
-    "points": 100,
-    "available_from": "2024-01-16",
-    "available_until": "2024-02-29",
-    "due_date": "2024-02-23"
-  },
-  {
-    "_id": "A1402",
-    "course": "RS114",
-    "title": "Early Christian Doctrines Essay",
-    "description": "This is a detailed description for Early Christian Doctrines Essay, focusing on key learning objectives for RS114.",
-    "points": 100,
-    "available_from": "2024-01-27",
-    "available_until": "2024-03-24",
-    "due_date": "2024-03-18"
-  },
-  {
-    "_id": "A1403",
-    "course": "RS114",
-    "title": "Role of Apostles Quiz",
-    "description": "This is a detailed description for Role of Apostles Quiz, focusing on key learning objectives for RS114.",
-    "points": 100,
-    "available_from": "2024-01-12",
-    "available_until": "2024-02-25",
-    "due_date": "2024-02-13"
-  },
-  {
-    "_id": "A1501",
-    "course": "RS115",
-    "title": "Servant Leadership Essay",
-    "description": "This is a detailed description for Servant Leadership Essay, focusing on key learning objectives for RS115.",
-    "points": 100,
-    "available_from": "2024-01-17",
-    "available_until": "2024-03-11",
-    "due_date": "2024-03-06"
-  },
-  {
-    "_id": "A1502",
-    "course": "RS115",
-    "title": "Pastoral Care Reflection",
-    "description": "This is a detailed description for Pastoral Care Reflection, focusing on key learning objectives for RS115.",
-    "points": 100,
-    "available_from": "2024-01-10",
-    "available_until": "2024-03-01",
-    "due_date": "2024-02-17"
-  },
-  {
-    "_id": "A1503",
-    "course": "RS115",
-    "title": "Church Resource Management Project",
-    "description": "This is a detailed description for Church Resource Management Project, focusing on key learning objectives for RS115.",
-    "points": 100,
-    "available_from": "2024-02-05",
-    "available_until": "2024-03-17",
-    "due_date": "2024-03-05"
-  },
-  {
-    "_id": "A1601",
-    "course": "RS116",
-    "title": "Rumi\u2019s Philosophy Paper",
-    "description": "This is a detailed description for Rumi\u2019s Philosophy Paper, focusing on key learning objectives for RS116.",
-    "points": 100,
-    "available_from": "2024-02-01",
-    "available_until": "2024-03-07",
-    "due_date": "2024-02-27"
-  },
-  {
-    "_id": "A1602",
-    "course": "RS116",
-    "title": "Mystical Practices Research",
-    "description": "This is a detailed description for Mystical Practices Research, focusing on key learning objectives for RS116.",
-    "points": 100,
-    "available_from": "2024-01-24",
-    "available_until": "2024-03-09",
-    "due_date": "2024-02-25"
-  },
-  {
-    "_id": "A1603",
-    "course": "RS116",
-    "title": "Sufi Mysticism Debate",
-    "description": "This is a detailed description for Sufi Mysticism Debate, focusing on key learning objectives for RS116.",
-    "points": 100,
-    "available_from": "2024-02-07",
-    "available_until": "2024-03-10",
-    "due_date": "2024-03-03"
-  },
-  {
-    "_id": "A1701",
-    "course": "RS117",
-    "title": "Islamic Ethics Case Study",
-    "description": "This is a detailed description for Islamic Ethics Case Study, focusing on key learning objectives for RS117.",
-    "points": 100,
-    "available_from": "2024-01-18",
-    "available_until": "2024-02-18",
-    "due_date": "2024-02-08"
-  },
-  {
-    "_id": "A1702",
-    "course": "RS117",
-    "title": "Free Will in Islamic Thought",
-    "description": "This is a detailed description for Free Will in Islamic Thought, focusing on key learning objectives for RS117.",
-    "points": 100,
-    "available_from": "2024-01-12",
-    "available_until": "2024-02-25",
-    "due_date": "2024-02-20"
-  },
-  {
-    "_id": "A1703",
-    "course": "RS117",
-    "title": "Righteousness Reflection Paper",
-    "description": "This is a detailed description for Righteousness Reflection Paper, focusing on key learning objectives for RS117.",
-    "points": 100,
-    "available_from": "2024-01-27",
-    "available_until": "2024-03-05",
-    "due_date": "2024-02-21"
-  },
-  {
-    "_id": "A1801",
-    "course": "RS118",
-    "title": "Esoteric Islam Reflection",
-    "description": "This is a detailed description for Esoteric Islam Reflection, focusing on key learning objectives for RS118.",
-    "points": 100,
-    "available_from": "2024-01-29",
-    "available_until": "2024-03-26",
-    "due_date": "2024-03-13"
-  },
-  {
-    "_id": "A1802",
-    "course": "RS118",
-    "title": "Mystical Experiences Essay",
-    "description": "This is a detailed description for Mystical Experiences Essay, focusing on key learning objectives for RS118.",
-    "points": 100,
-    "available_from": "2024-02-08",
-    "available_until": "2024-03-15",
-    "due_date": "2024-03-01"
-  },
-  {
-    "_id": "A1803",
-    "course": "RS118",
-    "title": "Symbolism in Islamic Texts",
-    "description": "This is a detailed description for Symbolism in Islamic Texts, focusing on key learning objectives for RS118.",
-    "points": 100,
-    "available_from": "2024-01-10",
-    "available_until": "2024-03-07",
-    "due_date": "2024-02-27"
-  },
-  {
-    "_id": "A1901",
-    "course": "RS119",
-    "title": "Yu the Great Case Study",
-    "description": "This is a detailed description for Yu the Great Case Study, focusing on key learning objectives for RS119.",
-    "points": 100,
-    "available_from": "2024-01-11",
-    "available_until": "2024-02-14",
-    "due_date": "2024-02-02"
-  },
-  {
-    "_id": "A1902",
-    "course": "RS119",
-    "title": "Environmental Practices Analysis",
-    "description": "This is a detailed description for Environmental Practices Analysis, focusing on key learning objectives for RS119.",
-    "points": 100,
-    "available_from": "2024-01-31",
-    "available_until": "2024-03-31",
-    "due_date": "2024-03-24"
-  },
-  {
-    "_id": "A1903",
-    "course": "RS119",
-    "title": "Ancient Chinese Management Essay",
-    "description": "This is a detailed description for Ancient Chinese Management Essay, focusing on key learning objectives for RS119.",
-    "points": 100,
-    "available_from": "2024-01-12",
-    "available_until": "2024-02-15",
-    "due_date": "2024-02-05"
-  },
-  {
-    "_id": "A2001",
-    "course": "RS120",
-    "title": "Leadership in Chinese Mythology",
-    "description": "This is a detailed description for Leadership in Chinese Mythology, focusing on key learning objectives for RS120.",
-    "points": 100,
-    "available_from": "2024-01-15",
-    "available_until": "2024-03-13",
-    "due_date": "2024-03-06"
-  },
-  {
-    "_id": "A2002",
-    "course": "RS120",
-    "title": "Yu the Great Leadership Paper",
-    "description": "This is a detailed description for Yu the Great Leadership Paper, focusing on key learning objectives for RS120.",
-    "points": 100,
-    "available_from": "2024-01-27",
-    "available_until": "2024-03-07",
-    "due_date": "2024-02-25"
-  },
-  {
-    "_id": "A2003",
-    "course": "RS120",
-    "title": "Ethical Leadership Debate",
-    "description": "This is a detailed description for Ethical Leadership Debate, focusing on key learning objectives for RS120.",
-    "points": 100,
-    "available_from": "2024-02-08",
-    "available_until": "2024-04-01",
-    "due_date": "2024-03-22"
-  },
-  {
-    "_id": "A2101",
-    "course": "RS121",
-    "title": "Hydraulic Engineering Case Study",
-    "description": "This is a detailed description for Hydraulic Engineering Case Study, focusing on key learning objectives for RS121.",
-    "points": 100,
-    "available_from": "2024-01-19",
-    "available_until": "2024-02-20",
-    "due_date": "2024-02-06"
-  },
-  {
-    "_id": "A2102",
-    "course": "RS121",
-    "title": "Mesopotamian Engineering Comparison",
-    "description": "This is a detailed description for Mesopotamian Engineering Comparison, focusing on key learning objectives for RS121.",
-    "points": 100,
-    "available_from": "2024-02-05",
-    "available_until": "2024-03-22",
-    "due_date": "2024-03-07"
-  },
-  {
-    "_id": "A2103",
-    "course": "RS121",
-    "title": "Ancient Hydraulic Systems Essay",
-    "description": "This is a detailed description for Ancient Hydraulic Systems Essay, focusing on key learning objectives for RS121.",
-    "points": 100,
-    "available_from": "2024-01-22",
-    "available_until": "2024-03-08",
-    "due_date": "2024-02-24"
-  }
+    {
+        "_id": "A101",
+        "course": "RS101",
+        "title": "Propulsion Assignment",
+        "description": "This is a detailed description for Propulsion Assignment, focusing on key learning objectives for RS101.",
+        "points": 100,
+        "available_from": "2024-02-08",
+        "available_until": "2024-04-07",
+        "due_date": "2024-03-28"
+    },
+    {
+        "_id": "A102",
+        "course": "RS101",
+        "title": "Combustion Analysis",
+        "description": "Analyze various combustion processes and compare efficiencies in different engines.",
+        "points": 80,
+        "available_from": "2024-02-10",
+        "available_until": "2024-04-09",
+        "due_date": "2024-03-30"
+    },
+    {
+        "_id": "A103",
+        "course": "RS101",
+        "title": "Nozzle Design Project",
+        "description": "Design a rocket nozzle and evaluate its performance using provided simulation tools.",
+        "points": 120,
+        "available_from": "2024-02-12",
+        "available_until": "2024-04-15",
+        "due_date": "2024-04-10"
+    },
+    {
+        "_id": "A201",
+        "course": "RS102",
+        "title": "Aerodynamics Quiz",
+        "description": "A quiz covering fundamental concepts of aerodynamics, including fluid dynamics and airflow behavior.",
+        "points": 50,
+        "available_from": "2024-02-15",
+        "available_until": "2024-03-15",
+        "due_date": "2024-03-10"
+    },
+    {
+        "_id": "A202",
+        "course": "RS102",
+        "title": "Flow Analysis",
+        "description": "Analyze the characteristics of subsonic and supersonic flows using computational tools.",
+        "points": 90,
+        "available_from": "2024-02-17",
+        "available_until": "2024-04-01",
+        "due_date": "2024-03-25"
+    },
+    {
+        "_id": "A203",
+        "course": "RS102",
+        "title": "Heating Analysis",
+        "description": "Evaluate aerodynamic heating effects on a high-speed vehicle and propose thermal protection solutions.",
+        "points": 100,
+        "available_from": "2024-02-20",
+        "available_until": "2024-04-05",
+        "due_date": "2024-03-28"
+    },
+    {
+        "_id": "A301",
+        "course": "RS103",
+        "title": "Structural Design Task",
+        "description": "Design a spacecraft structure and ensure its stability under different load conditions.",
+        "points": 110,
+        "available_from": "2024-02-25",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-05"
+    },
+    {
+        "_id": "A302",
+        "course": "RS103",
+        "title": "Orbital Calculations",
+        "description": "Calculate orbital parameters for a given satellite mission and optimize its trajectory.",
+        "points": 90,
+        "available_from": "2024-02-28",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-07"
+    },
+    {
+        "_id": "A303",
+        "course": "RS103",
+        "title": "Systems Engineering Exam",
+        "description": "A comprehensive exam on spacecraft systems, including power, thermal control, and communication systems.",
+        "points": 130,
+        "available_from": "2024-03-01",
+        "available_until": "2024-04-20",
+        "due_date": "2024-04-15"
+    },
+    {
+        "_id": "A401",
+        "course": "RS104",
+        "title": "Hydrocarbon Structures Analysis",
+        "description": "Analyze various hydrocarbon structures and determine their properties using spectroscopic techniques.",
+        "points": 100,
+        "available_from": "2024-02-10",
+        "available_until": "2024-04-07",
+        "due_date": "2024-03-28"
+    },
+    {
+        "_id": "A402",
+        "course": "RS104",
+        "title": "Functional Group Identification",
+        "description": "Identify functional groups in organic molecules and predict their reactivity.",
+        "points": 80,
+        "available_from": "2024-02-15",
+        "available_until": "2024-04-08",
+        "due_date": "2024-03-30"
+    },
+    {
+        "_id": "A403",
+        "course": "RS104",
+        "title": "Organic Reaction Mechanisms",
+        "description": "Provide detailed mechanisms for key organic reactions, explaining each step and intermediate.",
+        "points": 120,
+        "available_from": "2024-02-20",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-05"
+    },
+    {
+        "_id": "A501",
+        "course": "RS105",
+        "title": "Metal Complex Properties",
+        "description": "Evaluate the properties of metal complexes and their applications in real-world scenarios.",
+        "points": 110,
+        "available_from": "2024-02-25",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-05"
+    },
+    {
+        "_id": "A502",
+        "course": "RS105",
+        "title": "Coordination Chemistry Lab",
+        "description": "Perform laboratory experiments to synthesize and analyze coordination complexes.",
+        "points": 100,
+        "available_from": "2024-02-28",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-07"
+    },
+    {
+        "_id": "A503",
+        "course": "RS105",
+        "title": "Inorganic Synthesis Assignment",
+        "description": "Design a synthesis pathway for an inorganic compound and describe its industrial application.",
+        "points": 130,
+        "available_from": "2024-03-01",
+        "available_until": "2024-04-20",
+        "due_date": "2024-04-15"
+    },
+    {
+        "_id": "A601",
+        "course": "RS106",
+        "title": "Thermodynamic Principles Quiz",
+        "description": "A quiz covering the laws of thermodynamics and their applications in physical chemistry.",
+        "points": 60,
+        "available_from": "2024-03-05",
+        "available_until": "2024-04-07",
+        "due_date": "2024-04-01"
+    },
+    {
+        "_id": "A602",
+        "course": "RS106",
+        "title": "Quantum Chemistry Problems",
+        "description": "Solve problems related to quantum mechanics and its application in chemical systems.",
+        "points": 80,
+        "available_from": "2024-03-08",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-05"
+    },
+    {
+        "_id": "A603",
+        "course": "RS106",
+        "title": "Reaction Kinetics Analysis",
+        "description": "Analyze reaction kinetics data and propose mechanisms for observed rate laws.",
+        "points": 100,
+        "available_from": "2024-03-10",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-08"
+    },
+    {
+        "_id": "A701",
+        "course": "RS107",
+        "title": "Elvish Script Translation",
+        "description": "Translate a passage written in Sindarin or Quenya using provided linguistic resources.",
+        "points": 70,
+        "available_from": "2024-03-12",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-07"
+    },
+    {
+        "_id": "A702",
+        "course": "RS107",
+        "title": "Dwarvish Inscriptions Project",
+        "description": "Analyze and interpret inscriptions found in Khuzdul, the language of the Dwarves.",
+        "points": 90,
+        "available_from": "2024-03-15",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-09"
+    },
+    {
+        "_id": "A703",
+        "course": "RS107",
+        "title": "Middle-earth Language Quiz",
+        "description": "A quiz covering key linguistic features of the Elvish, Dwarvish, and Black Speech languages.",
+        "points": 50,
+        "available_from": "2024-03-18",
+        "available_until": "2024-04-15",
+        "due_date": "2024-04-10"
+    },
+    {
+        "_id": "A801",
+        "course": "RS108",
+        "title": "Diplomatic Strategies in Middle-earth",
+        "description": "Analyze key diplomatic events in Middle-earth, focusing on the alliances between races.",
+        "points": 100,
+        "available_from": "2024-03-10",
+        "available_until": "2024-04-07",
+        "due_date": "2024-03-28"
+    },
+    {
+        "_id": "A802",
+        "course": "RS108",
+        "title": "Council of Elrond Case Study",
+        "description": "Examine the Council of Elrond's role in the War of the Ring and propose alternative outcomes.",
+        "points": 80,
+        "available_from": "2024-03-12",
+        "available_until": "2024-04-08",
+        "due_date": "2024-03-30"
+    },
+    {
+        "_id": "A803",
+        "course": "RS108",
+        "title": "Inter-species Diplomacy Analysis",
+        "description": "Compare diplomatic strategies used by Elves, Men, and Dwarves in maintaining peace.",
+        "points": 120,
+        "available_from": "2024-03-15",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-05"
+    },
+    {
+        "_id": "A901",
+        "course": "RS109",
+        "title": "Wizards and Artifacts Report",
+        "description": "Analyze the influence of wizards and powerful artifacts in shaping the events of Middle-earth.",
+        "points": 90,
+        "available_from": "2024-03-20",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-07"
+    },
+    {
+        "_id": "A902",
+        "course": "RS109",
+        "title": "Magic in Middle-earth Essay",
+        "description": "Write an essay on the role of magic in Middle-earth, focusing on its ethical implications.",
+        "points": 100,
+        "available_from": "2024-03-22",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-08"
+    },
+    {
+        "_id": "A903",
+        "course": "RS109",
+        "title": "Rings of Power Analysis",
+        "description": "Evaluate the significance of the Rings of Power and their impact on the fate of Middle-earth.",
+        "points": 120,
+        "available_from": "2024-03-25",
+        "available_until": "2024-04-15",
+        "due_date": "2024-04-10"
+    },
+    {
+        "_id": "A1001",
+        "course": "RS110",
+        "title": "Democratic Education Models",
+        "description": "Analyze different models of democratic education and their impact on student development.",
+        "points": 90,
+        "available_from": "2024-02-10",
+        "available_until": "2024-04-07",
+        "due_date": "2024-03-28"
+    },
+    {
+        "_id": "A1002",
+        "course": "RS110",
+        "title": "Participatory Learning Assignment",
+        "description": "Design a participatory learning activity and evaluate its effectiveness in fostering student engagement.",
+        "points": 80,
+        "available_from": "2024-02-12",
+        "available_until": "2024-04-09",
+        "due_date": "2024-03-30"
+    },
+    {
+        "_id": "A1003",
+        "course": "RS110",
+        "title": "Democratic Schooling Case Study",
+        "description": "Examine a real-world example of democratic schooling and propose improvements.",
+        "points": 120,
+        "available_from": "2024-02-15",
+        "available_until": "2024-04-15",
+        "due_date": "2024-04-10"
+    },
+    {
+        "_id": "A1101",
+        "course": "RS111",
+        "title": "Philosophy of Liberation Essay",
+        "description": "Write an essay on the philosophical foundations of liberation movements in Latin America.",
+        "points": 100,
+        "available_from": "2024-02-20",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-05"
+    },
+    {
+        "_id": "A1102",
+        "course": "RS111",
+        "title": "Enlightenment Thought in Latin America",
+        "description": "Analyze the influence of Enlightenment thought on the Latin American independence movements.",
+        "points": 90,
+        "available_from": "2024-02-22",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-07"
+    },
+    {
+        "_id": "A1103",
+        "course": "RS111",
+        "title": "Simón Bolívar Ideology Paper",
+        "description": "Write a paper on Simón Bolívar's ideology and its role in shaping Latin American independence.",
+        "points": 120,
+        "available_from": "2024-02-25",
+        "available_until": "2024-04-15",
+        "due_date": "2024-04-10"
+    },
+    {
+        "_id": "A1201",
+        "course": "RS112",
+        "title": "Educational Reforms in the 19th Century",
+        "description": "Examine the educational reforms of the early 19th century and their long-term impact.",
+        "points": 100,
+        "available_from": "2024-03-01",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-07"
+    },
+    {
+        "_id": "A1202",
+        "course": "RS112",
+        "title": "Simon Rodríguez’s Contributions Report",
+        "description": "Analyze Simon Rodríguez’s contributions to modern education and their relevance today.",
+        "points": 90,
+        "available_from": "2024-03-05",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-08"
+    },
+    {
+        "_id": "A1203",
+        "course": "RS112",
+        "title": "Pedagogical Methods Assignment",
+        "description": "Compare pedagogical methods from the early 19th century with modern practices.",
+        "points": 110,
+        "available_from": "2024-03-08",
+        "available_until": "2024-04-15",
+        "due_date": "2024-04-10"
+    },
+    {
+        "_id": "A1301",
+        "course": "RS113",
+        "title": "Christian Ethics Case Study",
+        "description": "Analyze a case study through the lens of Christian ethics and moral decision-making.",
+        "points": 90,
+        "available_from": "2024-03-10",
+        "available_until": "2024-04-08",
+        "due_date": "2024-04-05"
+    },
+    {
+        "_id": "A1302",
+        "course": "RS113",
+        "title": "Virtues and Vices Analysis",
+        "description": "Examine key Christian virtues and vices and their relevance in modern ethical dilemmas.",
+        "points": 80,
+        "available_from": "2024-03-12",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-07"
+    },
+    {
+        "_id": "A1303",
+        "course": "RS113",
+        "title": "Moral Decision Making in Christianity",
+        "description": "Explore how Christian ethical principles guide moral decision-making in real-world situations.",
+        "points": 100,
+        "available_from": "2024-03-15",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-09"
+    },
+    {
+        "_id": "A1401",
+        "course": "RS114",
+        "title": "Apostolic Age Historical Report",
+        "description": "Write a historical report on the key events and challenges faced by the early Christian Church.",
+        "points": 90,
+        "available_from": "2024-02-10",
+        "available_until": "2024-04-07",
+        "due_date": "2024-03-28"
+    },
+    {
+        "_id": "A1402",
+        "course": "RS114",
+        "title": "Christian Doctrine Formation Essay",
+        "description": "Examine the formation of Christian doctrines during the Apostolic Age and their impact on the early Church.",
+        "points": 80,
+        "available_from": "2024-02-15",
+        "available_until": "2024-04-08",
+        "due_date": "2024-03-30"
+    },
+    {
+        "_id": "A1403",
+        "course": "RS114",
+        "title": "Early Church Case Study",
+        "description": "Analyze a case study on the spread of Christianity during the Apostolic Age.",
+        "points": 120,
+        "available_from": "2024-02-20",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-05"
+    },
+    {
+        "_id": "A1501",
+        "course": "RS115",
+        "title": "Servant Leadership in Ministry",
+        "description": "Explore the concept of servant leadership in ministry and its application in modern Christian communities.",
+        "points": 100,
+        "available_from": "2024-03-01",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-07"
+    },
+    {
+        "_id": "A1502",
+        "course": "RS115",
+        "title": "Pastoral Care and Community Leadership",
+        "description": "Examine the role of pastoral care in building and sustaining Christian communities.",
+        "points": 90,
+        "available_from": "2024-03-05",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-08"
+    },
+    {
+        "_id": "A1503",
+        "course": "RS115",
+        "title": "Church Resource Stewardship Task",
+        "description": "Propose a plan for effective stewardship of church resources, ensuring ethical and responsible use.",
+        "points": 110,
+        "available_from": "2024-03-08",
+        "available_until": "2024-04-15",
+        "due_date": "2024-04-10"
+    },
+    {
+        "_id": "A1601",
+        "course": "RS116",
+        "title": "Rumi and Hafiz Teachings Report",
+        "description": "Analyze the teachings of Rumi and Hafiz, focusing on their contributions to Sufi philosophy.",
+        "points": 100,
+        "available_from": "2024-02-10",
+        "available_until": "2024-04-07",
+        "due_date": "2024-03-28"
+    },
+    {
+        "_id": "A1602",
+        "course": "RS116",
+        "title": "Mystical Practices in Sufism",
+        "description": "Explore the mystical practices in Sufism and their spiritual significance.",
+        "points": 90,
+        "available_from": "2024-02-15",
+        "available_until": "2024-04-08",
+        "due_date": "2024-03-30"
+    },
+    {
+        "_id": "A1603",
+        "course": "RS116",
+        "title": "Philosophical Traditions in Sufism",
+        "description": "Examine the philosophical underpinnings of Sufism and their relevance to contemporary spirituality.",
+        "points": 120,
+        "available_from": "2024-02-20",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-05"
+    },
+    {
+        "_id": "A1701",
+        "course": "RS117",
+        "title": "Islamic Moral Reasoning Essay",
+        "description": "Write an essay on Islamic moral reasoning, focusing on its application to modern ethical dilemmas.",
+        "points": 90,
+        "available_from": "2024-03-01",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-07"
+    },
+    {
+        "_id": "A1702",
+        "course": "RS117",
+        "title": "Free Will and Divine Guidance Assignment",
+        "description": "Explore the balance between free will and divine guidance in Islamic teachings.",
+        "points": 80,
+        "available_from": "2024-03-05",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-08"
+    },
+    {
+        "_id": "A1703",
+        "course": "RS117",
+        "title": "Ethical Teachings in the Quran",
+        "description": "Analyze the ethical teachings in the Quran and their relevance to contemporary issues.",
+        "points": 100,
+        "available_from": "2024-03-08",
+        "available_until": "2024-04-15",
+        "due_date": "2024-04-10"
+    },
+    {
+        "_id": "A1801",
+        "course": "RS118",
+        "title": "Islamic Symbolism and Mysticism",
+        "description": "Examine the symbolism in Islamic mysticism and its role in spiritual practices.",
+        "points": 100,
+        "available_from": "2024-02-25",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-05"
+    },
+    {
+        "_id": "A1802",
+        "course": "RS118",
+        "title": "Esoteric Practices Analysis",
+        "description": "Analyze the esoteric practices in Islamic teachings and their significance.",
+        "points": 90,
+        "available_from": "2024-02-28",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-07"
+    },
+    {
+        "_id": "A1803",
+        "course": "RS118",
+        "title": "The Unseen World in Islamic Teachings",
+        "description": "Explore the concept of the unseen world in Islamic esotericism and its relevance to spiritual beliefs.",
+        "points": 120,
+        "available_from": "2024-03-01",
+        "available_until": "2024-04-15",
+        "due_date": "2024-04-10"
+    },
+    {
+        "_id": "A1901",
+        "course": "RS119",
+        "title": "Ancient Chinese Water Management",
+        "description": "Examine ancient Chinese water management systems and their effectiveness in controlling floods.",
+        "points": 100,
+        "available_from": "2024-02-10",
+        "available_until": "2024-04-07",
+        "due_date": "2024-03-28"
+    },
+    {
+        "_id": "A1902",
+        "course": "RS119",
+        "title": "Yu the Great’s Contributions Essay",
+        "description": "Write an essay on Yu the Great’s contributions to environmental management in ancient China.",
+        "points": 90,
+        "available_from": "2024-02-12",
+        "available_until": "2024-04-09",
+        "due_date": "2024-03-30"
+    },
+    {
+        "_id": "A1903",
+        "course": "RS119",
+        "title": "Environmental Practices in Ancient China",
+        "description": "Analyze the environmental practices of ancient China and their relevance to modern challenges.",
+        "points": 120,
+        "available_from": "2024-02-15",
+        "available_until": "2024-04-15",
+        "due_date": "2024-04-10"
+    },
+    {
+        "_id": "A2001",
+        "course": "RS120",
+        "title": "Leadership Qualities in Chinese Mythology",
+        "description": "Examine the leadership qualities demonstrated by figures in Chinese mythology, with a focus on Yu the Great.",
+        "points": 100,
+        "available_from": "2024-03-01",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-07"
+    },
+    {
+        "_id": "A2002",
+        "course": "RS120",
+        "title": "Ethical Governance in Mythology",
+        "description": "Analyze examples of ethical governance in Chinese mythology and their impact on political thought.",
+        "points": 90,
+        "available_from": "2024-03-05",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-08"
+    },
+    {
+        "_id": "A2003",
+        "course": "RS120",
+        "title": "Leadership Lessons from Yu the Great",
+        "description": "Explore the leadership lessons derived from Yu the Great’s legendary achievements in flood control and governance.",
+        "points": 110,
+        "available_from": "2024-03-08",
+        "available_until": "2024-04-15",
+        "due_date": "2024-04-10"
+    },
+    {
+        "_id": "A2101",
+        "course": "RS121",
+        "title": "Ancient Hydraulic Engineering Analysis",
+        "description": "Analyze ancient hydraulic engineering projects and their significance in early civilizations.",
+        "points": 100,
+        "available_from": "2024-02-25",
+        "available_until": "2024-04-10",
+        "due_date": "2024-04-05"
+    },
+    {
+        "_id": "A2102",
+        "course": "RS121",
+        "title": "Flood Control in Ancient Civilizations",
+        "description": "Examine the flood control methods used in ancient civilizations such as Mesopotamia and China.",
+        "points": 90,
+        "available_from": "2024-02-28",
+        "available_until": "2024-04-12",
+        "due_date": "2024-04-07"
+    },
+    {
+        "_id": "A2103",
+        "course": "RS121",
+        "title": "Comparative Study of Hydraulic Systems",
+        "description": "Compare the hydraulic systems of ancient China, Mesopotamia, and the Indus Valley.",
+        "points": 120,
+        "available_from": "2024-03-01",
+        "available_until": "2024-04-15",
+        "due_date": "2024-04-10"
+    }
 ];
